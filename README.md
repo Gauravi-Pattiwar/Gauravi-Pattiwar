@@ -5,6 +5,7 @@
 <h3>SKILLS</h3>
 <p>
   <img src="https://cdn.simpleicons.org/cplusplus" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript" height="40"/>
 </p>
 
 
