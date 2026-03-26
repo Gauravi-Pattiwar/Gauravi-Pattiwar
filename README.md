@@ -4,8 +4,11 @@
 <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGcwbzFpbjAzaGF0MG5qeHdiM2R1cjRyeGJ6dnhiNm1jYnVna3lkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align = "center" vspace = "1" hspace = "50" height = "290" width="500"></p><br>
 <h3>SKILLS</h3>
 <p>
-  <img src="https://cdn.simpleicons.org/cplusplus" height="40"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" height="40"/> 
   <img src="https://cdn.simpleicons.org/javascript" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5" height="40"/>
+  <img src="https://cdn.simpleicons.org/css" height="40"/>
+  <img src="https://cdn.simpleicons.org/python" height="40"/>
 </p>
 
 
