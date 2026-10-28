@@ -26,6 +26,7 @@
   <img src="https://cdn.simpleicons.org/html5" height="45" alt="HTML"/>
   <img src="https://cdn.simpleicons.org/css" height="45" alt="CSS"/>
   <img src="https://cdn.simpleicons.org/python" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="45" alt="Java" />
 </p>
 
 ---
